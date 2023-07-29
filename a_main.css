@@ -15,7 +15,7 @@
 }
 
 .navigation { grid-area: navigation; 
-    outline: 0.5px solid red;
+    outline: 0.5px solid;
 }
 
 .form {grid-area: form; 
